@@ -19,5 +19,11 @@ This is a simple authentication application that provides user registration, log
 
 ## Technologies used
 HTML5: The structure of the application is defined using HTML.
+
+
 CSS3: Styling of the application is handled by CSS.
+
+
 JavaScript: Pure JavaScript is used to handle client-side logic, DOM manipulation, and form validation.
+
+
